@@ -22,7 +22,7 @@
   Click [here](https://drive.google.com/file/d/1hlX5pgyfC81CcPNuO4CJn0zFbs-EByNm/view) to see the functionality of the application.
 
   ### Screenshots
-  ![Alt text](./src/images/screenshot.png)
+  ![Alt text](./src/images/screenshot.PNG)
   
   ## Contribution Guideline
   [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
